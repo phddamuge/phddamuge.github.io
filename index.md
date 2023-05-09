@@ -12,7 +12,12 @@ Before that, I have obtained my Master's and Bachelor's degrees in Department of
 
 ## Education
 - [2018 - Present] Ph.D., Computer Science, Harbin Institute of Technology
+  - Research Interests: NLP, Knowledge Reasoning, QA
+  - Advisor: Prof. Tiejun Zhao
+  - Lab: [Machine Translation and Intelligence (MI&T)]()
 - [2016 - 2018] M.S., Computer Science, Harbin Institute of Technology 
+  - Research Interests: String Approximate Query
+  - Advisor: Prof. Hong Gao
 - [2012 - 2016] B.S., Mathematics, Harbin Institute of Technology 
 
 ## Research and Industry Experience
