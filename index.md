@@ -22,7 +22,7 @@ Before that, I have obtained my Master's and Bachelor's degrees in Department of
 - 01/2021: Our [RoR](https://aclanthology.org/2021.findings-emnlp.160.pdf) (EMNLP 2021-Findings) achieves the Top-1 on [QuAC](https://quac.ai/) leaderboard.
 
 ## Selected Publications
-#### For full publication list, please check [publication page](publications.md).
+<!-- #### For full publication list, please check [publication page](publications.md). -->
 
 - [[Paper](https://arxiv.org/pdf/2210.08249.pdf) | [Code](https://github.com/JD-AI-Research-NLP/UniRPG)] [CCF-B | 清华A] **UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation**.  
 **Yongwei Zhou**, Junwei Bao, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao. **EMNLP 2022**
