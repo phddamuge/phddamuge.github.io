@@ -11,9 +11,9 @@ Before that, I have obtained my Master's and Bachelor's degrees in Department of
 [Google Scholar](https://scholar.google.com/citations?user=9uGWNycAAAAJ&hl=zh-CN) | [Semantic Scholar](https://www.semanticscholar.org/author/Yongwei-Zhou/2145494002) | [Resume]()
 
 ## Education
-- <p align="left"> [2018 - Present] Ph.D., Computer Science, Harbin Institute of Technology</p> 
-- <p align="left"> [2016 - 2018] M.S., Computer Science, Harbin Institute of Technology </p> 
-- <p align="left"> [2012 - 2016] B.S., Mathematics, Harbin Institute of Technology </p> 
+- [2018 - Present] Ph.D., Computer Science, Harbin Institute of Technology
+- [2016 - 2018] M.S., Computer Science, Harbin Institute of Technology 
+- [2012 - 2016] B.S., Mathematics, Harbin Institute of Technology 
 
 
 ## News
