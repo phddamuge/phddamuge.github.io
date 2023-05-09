@@ -1,6 +1,5 @@
-# Yongwei Zhou (周勇伟)
-
 <img align="left" src="myself.jpg" width=200 height=250 alt="a photo" style="padding-right:10px">
+**Yongwei Zhou (周勇伟)**  
 I am currently a Ph.D. candidate in Department of Computer Science of HIT, under the supervision of [Prof. Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun?lang=zh). 
 Before that, I have obtained my Master's and Bachelor's degrees in Department of Computer Science and Mathematics of HIT. My research focus on NLP, knowledge reasoning, QA and semantic parsing.  
 Email: ywzhou@hit-mtlab.net  
