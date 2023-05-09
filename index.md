@@ -2,12 +2,12 @@
 <img align="left" src="photo.jpg" width=110 height=110 alt="a photo" style="padding-right:10px">
 
 I am currently a Ph.D. candidate in Department of Computer Science of HIT, advised by [Prof. Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun?lang=zh). 
-Before that, I have obtained my Master's and Bachelor's degrees in Department of Computer Science and Mathematics of HIT. My research focus on knowledge reasoning, QA and semantic parsing.  
+Before that, I have obtained my Master's and Bachelor's degrees in Department of Computer Science and Mathematics of HIT. My research focus on NLP, knowledge reasoning, QA and semantic parsing.  
 [[Google Scholar](https://scholar.google.com/citations?user=9uGWNycAAAAJ&hl=zh-CN)]  [[Semantic Scholar](https://www.semanticscholar.org/author/Yongwei-Zhou/2145494002)] [[Resume]()]
 
 ## News
 - 02/2022: Our [UniRPG](https://arxiv.org/pdf/2210.08249.pdf) (EMNLP 2022) achieves the Top-1 on [TAT-QA](https://nextplusplus.github.io/TAT-QA/) leaderboard.
-- 02/2022: Our [OPERA](https://aclanthology.org/2022.naacl-main.119.pdf) (NAACL 2022) achieves the Top-1 on [DROP](https://leaderboard.allenai.org/drop/submissions/public) leaderboard.
+- 02/2022: Our [OPERA++](https://aclanthology.org/2022.naacl-main.119.pdf) (NAACL 2022) achieves the Top-1 on [DROP](https://leaderboard.allenai.org/drop/submissions/public) leaderboard.
 - 01/2021: Our [RoR](https://aclanthology.org/2021.findings-emnlp.160.pdf) (EMNLP 2021-Findings) achieves the Top-1 on [QuAC](https://quac.ai/) leaderboard.
 
 ## Education
@@ -44,11 +44,11 @@ Jing Zhao, Junwei Bao, Yifan Wang, **Yongwei Zhou**, Youzheng Wu, Xiaodong He, B
   
 5. [[Paper]()] [JCR-Q1] **Operation-Augmented Discrete Reasoning for Question Answering**.  
 **Yongwei Zhou**, Junwei Bao, Youzheng Wu, Xiaodong He, Tiejun Zhao.  
-IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP in peer review, JCR Q1)
+IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP in peer review, JCR Q1**)
 
 6. [[Paper]()] [JCR-Q1]**UniRPG-2: Unified Knowledge-Grounded Numerical Reasoning as Program Generation**.  
 **Yongwei Zhou**, Junwei Bao, Haipeng Sun, Youzheng Wu, Xiaodong He, Tiejun Zhao.  
-Knowledge-Based Systems (KBS in peer review, JCR Q1)
+Knowledge-Based Systems (**KBS in peer review, JCR Q1**)
 
 ### Honors & Awards 
 - [2022] UniRPG achieves the Top-1 on the TAT-QA leaderboard. (JD AI Research)
