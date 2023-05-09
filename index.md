@@ -1,14 +1,11 @@
 # Yongwei Zhou (周勇伟)
 
-<img align="left" src="photo.jpg" width=180 height=180 alt="a photo" style="padding-right:10px">
-
+<img align="left" src="photo.jpg" width=100 height=100 alt="a photo" style="padding-right:10px">
 I am currently a Ph.D. candidate in Department of Computer Science of HIT, advised by [Prof. Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun?lang=zh). 
-Before that, I have obtained my Master's and Bachelor's degrees in Department of Computer Science and Mathematics of HIT. My research focus on knowledge reasoning, QA and semantic parsing
+Before that, I have obtained my Master's and Bachelor's degrees in Department of Computer Science and Mathematics of HIT. My research focus on knowledge reasoning, QA and semantic parsing.
 
-
-
-## Links
 [Google Scholar](https://scholar.google.com/citations?user=9uGWNycAAAAJ&hl=zh-CN) | [Semantic Scholar](https://www.semanticscholar.org/author/Yongwei-Zhou/2145494002) | [Resume]()
+
 
 ## Education
 - [2018 - Present] Ph.D., Computer Science, Harbin Institute of Technology
