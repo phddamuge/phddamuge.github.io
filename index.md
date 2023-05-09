@@ -44,6 +44,3 @@ Before that, I have obtained my Master's and Bachelor's degrees in Department of
 - [2022] OPERA++ achieves the Top-1 on the DROP leaderboard. (JD AI Research)
 - [2021] RoR achieves the Top-1 on the QuAC leaderboard. (JD AI Research)
 - [2016] Outstanding Graduates Award (Harbin Institute of Technology)
-
-
-
