@@ -2,9 +2,8 @@
 
 <img align="left" src="photo.jpg" width=110 height=110 alt="a photo" style="padding-right:10px">
 I am currently a Ph.D. candidate in Department of Computer Science of HIT, advised by [Prof. Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun?lang=zh). 
-Before that, I have obtained my Master's and Bachelor's degrees in Department of Computer Science and Mathematics of HIT. My research focus on knowledge reasoning, QA and semantic parsing.
-
-[Google Scholar](https://scholar.google.com/citations?user=9uGWNycAAAAJ&hl=zh-CN) | [Semantic Scholar](https://www.semanticscholar.org/author/Yongwei-Zhou/2145494002) | [Resume]()
+Before that, I have obtained my Master's and Bachelor's degrees in Department of Computer Science and Mathematics of HIT. My research focus on knowledge reasoning, QA and semantic parsing.  
+[Google Scholar](https://scholar.google.com/citations?user=9uGWNycAAAAJ&hl=zh-CN)  [Semantic Scholar](https://www.semanticscholar.org/author/Yongwei-Zhou/2145494002) [Resume]()
 
 ## News
 - 02/2022: Our [UniRPG](https://arxiv.org/pdf/2210.08249.pdf) (EMNLP 2022) achieves the Top-1 on [TAT-QA](https://nextplusplus.github.io/TAT-QA/) leaderboard.
