@@ -30,23 +30,23 @@ Before that, I have obtained my Master's and Bachelor's degrees in Department of
 
 ## Selected Publications
 <!-- #### For full publication list, please check [publication page](publications.md). -->
-- [[Paper](https://arxiv.org/pdf/2210.08249.pdf)] [[Code](https://github.com/JD-AI-Research-NLP/UniRPG)] [CCF-B | 清华A] **UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation**.  
+1. [[Paper](https://arxiv.org/pdf/2210.08249.pdf)] [[Code](https://github.com/JD-AI-Research-NLP/UniRPG)] [CCF-B | 清华A] **UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation**.  
 **Yongwei Zhou**, Junwei Bao, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao. **EMNLP 2022**
   
-- [[Paper](https://aclanthology.org/2022.naacl-main.119.pdf)] [CCF-B | 清华B] **OPERA: Operation-Pivoted Discrete Reasoning over Text**.  
+2. [[Paper](https://aclanthology.org/2022.naacl-main.119.pdf)] [CCF-B | 清华B] **OPERA: Operation-Pivoted Discrete Reasoning over Text**.  
 **Yongwei Zhou**, Junwei Bao, Chaoqun Duan, Haipeng Sun, Jiahui Liang, Yifan Wang, Jing Zhao, Youzheng Wu, Xiaodong He, Tiejun Zhao. **NAACL 2022**
 
-- [[Paper](https://aclanthology.org/2021.findings-emnlp.160.pdf)] [[Code](https://github.com/JD-AI-Research-NLP/RoR)] [CCF-B | 清华A] **RoR: Read-over-Read for Long Document Machine Reading Comprehension**.  
+3. [[Paper](https://aclanthology.org/2021.findings-emnlp.160.pdf)] [[Code](https://github.com/JD-AI-Research-NLP/RoR)] [CCF-B | 清华A] **RoR: Read-over-Read for Long Document Machine Reading Comprehension**.  
 Jing Zhao, Junwei Bao, Yifan Wang, **Yongwei Zhou**, Youzheng Wu, Xiaodong He, Bowen Zhou. **EMNLP (Findings) 2021**
   
-- [[Paper](https://arxiv.org/abs/2108.07994)] [CCF-C] **EviDR: Evidence-Emphasized Discrete Reasoning for Reasoning Machine Reading Comprehension**.  
+4. [[Paper](https://arxiv.org/abs/2108.07994)] [CCF-C] **EviDR: Evidence-Emphasized Discrete Reasoning for Reasoning Machine Reading Comprehension**.  
 **Yongwei Zhou**, Junwei Bao, Haipeng Sun, Jiahui Liang, Youzheng Wu, Xiaodong He, Bowen Zhou, Tiejun Zhao. **NLPCC 2021**
   
-- [[Paper]()] [JCR-Q1] **Operation-Augmented Discrete Reasoning for Question Answering**.  
+5. [[Paper]()] [JCR-Q1] **Operation-Augmented Discrete Reasoning for Question Answering**.  
 **Yongwei Zhou**, Junwei Bao, Youzheng Wu, Xiaodong He, Tiejun Zhao.  
 IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP in peer review, JCR Q1)
 
-- [[Paper]()] [JCR-Q1]**UniRPG-2: Unified Knowledge-Grounded Numerical Reasoning as Program Generation**.  
+6. [[Paper]()] [JCR-Q1]**UniRPG-2: Unified Knowledge-Grounded Numerical Reasoning as Program Generation**.  
 **Yongwei Zhou**, Junwei Bao, Haipeng Sun, Youzheng Wu, Xiaodong He, Tiejun Zhao.  
 Knowledge-Based Systems (KBS in peer review, JCR Q1)
 
