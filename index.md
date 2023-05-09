@@ -6,17 +6,23 @@ Before that, I have obtained my Master's and Bachelor's degrees in Department of
 
 [Google Scholar](https://scholar.google.com/citations?user=9uGWNycAAAAJ&hl=zh-CN) | [Semantic Scholar](https://www.semanticscholar.org/author/Yongwei-Zhou/2145494002) | [Resume]()
 
+## News
+- 02/2022: Our [UniRPG](https://arxiv.org/pdf/2210.08249.pdf) (EMNLP 2022) achieves the Top-1 on [TAT-QA](https://nextplusplus.github.io/TAT-QA/) leaderboard.
+- 02/2022: Our [OPERA](https://aclanthology.org/2022.naacl-main.119.pdf) (NAACL 2022) achieves the Top-1 on [DROP](https://leaderboard.allenai.org/drop/submissions/public) leaderboard.
+- 01/2021: Our [RoR](https://aclanthology.org/2021.findings-emnlp.160.pdf) (EMNLP 2021-Findings) achieves the Top-1 on [QuAC](https://quac.ai/) leaderboard.
 
 ## Education
 - [2018 - Present] Ph.D., Computer Science, Harbin Institute of Technology
 - [2016 - 2018] M.S., Computer Science, Harbin Institute of Technology 
 - [2012 - 2016] B.S., Mathematics, Harbin Institute of Technology 
 
-
-## News
-- 02/2022: Our [UniRPG](https://arxiv.org/pdf/2210.08249.pdf) (EMNLP 2022) achieves the Top-1 on [TAT-QA](https://nextplusplus.github.io/TAT-QA/) leaderboard.
-- 02/2022: Our [OPERA](https://aclanthology.org/2022.naacl-main.119.pdf) (NAACL 2022) achieves the Top-1 on [DROP](https://leaderboard.allenai.org/drop/submissions/public) leaderboard.
-- 01/2021: Our [RoR](https://aclanthology.org/2021.findings-emnlp.160.pdf) (EMNLP 2021-Findings) achieves the Top-1 on [QuAC](https://quac.ai/) leaderboard.
+## Research and Industry Experience
+- JD AI Research, Beijing, June 2020 - May 2023 
+  - Research Intern, QA and Knowledge Reasoning
+  - Advisor: [Dr.Junwei Bao](https://junweibao.github.io/Homepage/) and [Dr. Youzheng Wu]()
+- Noah's Ark Lab, Huawei, Shenzhen, Oct 2019 - May 2020
+  - Research Intern, QA and Knowledge Reasoning
+  - Advisors: [Dr.Lifeng Shang]()
 
 ## Selected Publications
 <!-- #### For full publication list, please check [publication page](publications.md). -->
