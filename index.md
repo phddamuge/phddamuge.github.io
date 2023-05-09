@@ -14,7 +14,7 @@ Before that, I have obtained my Master's and Bachelor's degrees in Department of
 - [2018 - Present] Ph.D., Computer Science, Harbin Institute of Technology
   - Research Interests: NLP, Knowledge Reasoning, QA
   - Advisor: Prof. Tiejun Zhao
-  - Lab: [Machine Translation and Intelligence (MI&T)]()
+  - Lab: [Machine Translation and Intelligence (MI&T)](https://mitlab.hit.edu.cn)
 - [2016 - 2018] M.S., Computer Science, Harbin Institute of Technology 
   - Research Interests: String Approximate Query
   - Advisor: Prof. Hong Gao
@@ -23,10 +23,10 @@ Before that, I have obtained my Master's and Bachelor's degrees in Department of
 ## Research and Industry Experience
 - JD AI Research, Beijing, June 2020 - May 2023 
   - Research Intern, QA and Knowledge Reasoning
-  - Advisor: [Dr.Junwei Bao](https://junweibao.github.io/Homepage/) and [Dr. Youzheng Wu]()
+  - Advisor: [Dr.Junwei Bao](https://scholar.google.com/citations?user=hcRREnsAAAAJ&hl=zh-CN) and [Dr. Youzheng Wu](https://scholar.google.com/citations?user=fWrjVnQAAAAJ&hl=zh-CN)
 - Noah's Ark Lab, Huawei, Shenzhen, Oct 2019 - May 2020
   - Research Intern, QA and Knowledge Reasoning
-  - Advisors: [Dr.Lifeng Shang]()
+  - Advisors: [Dr.Lifeng Shang](https://scholar.google.com/citations?user=jMQIjYoAAAAJ&hl=zh-CN&oi=ao)
 
 ## Selected Publications
 <!-- #### For full publication list, please check [publication page](publications.md). -->
