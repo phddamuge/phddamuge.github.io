@@ -57,4 +57,4 @@ Knowledge-Based Systems (**KBS in peer review, JCR Q1**)
 - [2016] Outstanding Graduates Award (Harbin Institute of Technology)
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=k7Aw82F2UiFRVPw886PBL64FwrAsD_S8Rs-oddzxvz0'></script>
-Last Updated May 2023 | Designed by Yongwei Zhou
+[Last Updated May 2023][Designed by Yongwei Zhou]
