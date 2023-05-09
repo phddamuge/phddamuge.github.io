@@ -55,3 +55,5 @@ Knowledge-Based Systems (**KBS in peer review, JCR Q1**)
 - [2022] OPERA++ achieves the Top-1 on the DROP leaderboard. (JD AI Research)
 - [2021] RoR achieves the Top-1 on the QuAC leaderboard. (JD AI Research)
 - [2016] Outstanding Graduates Award (Harbin Institute of Technology)
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=k7Aw82F2UiFRVPw886PBL64FwrAsD_S8Rs-oddzxvz0"></script>
