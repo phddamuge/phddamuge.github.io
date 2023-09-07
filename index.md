@@ -8,7 +8,7 @@ Email: ywzhou@hit-mtlab.net
 
 [[Google Scholar](https://scholar.google.com/citations?user=9uGWNycAAAAJ&hl=zh-CN)]  [[Semantic Scholar](https://www.semanticscholar.org/author/Yongwei-Zhou/2145494002)] [[Resume]()]
 
-[Last Updated May 2023][Designed by Yongwei Zhou]
+[Last Updated Sep 2023][Designed by Yongwei Zhou]
 
 ## News
 - 09/2023: One paper is accepted to IEEE/ACM Transactions on Audio, Speech, and Language Processing.
