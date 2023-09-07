@@ -11,6 +11,7 @@ Email: ywzhou@hit-mtlab.net
 [Last Updated May 2023][Designed by Yongwei Zhou]
 
 ## News
+- 09/2023: One paper is accepted to IEEE/ACM Transactions on Audio, Speech, and Language Processing.
 - 02/2022: Our [UniRPG](https://arxiv.org/pdf/2210.08249.pdf) (EMNLP 2022) achieves the Top-1 on [TAT-QA](https://nextplusplus.github.io/TAT-QA/) leaderboard.
 - 02/2022: Our [OPERA++](https://aclanthology.org/2022.naacl-main.119.pdf) (NAACL 2022) achieves the Top-1 on [DROP](https://leaderboard.allenai.org/drop/submissions/public) leaderboard.
 - 01/2021: Our [RoR](https://aclanthology.org/2021.findings-emnlp.160.pdf) (EMNLP 2021-Findings) achieves the Top-1 on [QuAC](https://quac.ai/) leaderboard.
@@ -49,7 +50,7 @@ Jing Zhao, Junwei Bao, Yifan Wang, **Yongwei Zhou**, Youzheng Wu, Xiaodong He, B
   
 5. [[Paper]()] [JCR-Q1] **Operation-Augmented Discrete Reasoning for Question Answering**.  
 **Yongwei Zhou**, Junwei Bao, Youzheng Wu, Xiaodong He, Tiejun Zhao.  
-IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP in peer review, JCR Q1**)
+IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP accept, JCR Q1**)
 
 6. [[Paper]()] [JCR-Q1]**UniRPG-2: Unified Knowledge-Grounded Numerical Reasoning as Program Generation**.  
 **Yongwei Zhou**, Junwei Bao, Haipeng Sun, Youzheng Wu, Xiaodong He, Tiejun Zhao.  
