@@ -50,7 +50,7 @@ Jing Zhao, Junwei Bao, Yifan Wang, **Yongwei Zhou**, Youzheng Wu, Xiaodong He, B
   
 5. [[Paper]()] [JCR-Q1] **Operation-Augmented Discrete Reasoning for Question Answering**.  
 **Yongwei Zhou**, Junwei Bao, Youzheng Wu, Xiaodong He, Tiejun Zhao.  
-IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP accept, JCR Q1**)
+IEEE/ACM Transactions on Audio, Speech, and Language Processing(TASLP) (**accept, JCR Q1**)
 
 6. [[Paper]()] [JCR-Q1]**UniRPG-2: Unified Knowledge-Grounded Numerical Reasoning as Program Generation**.  
 **Yongwei Zhou**, Junwei Bao, Haipeng Sun, Youzheng Wu, Xiaodong He, Tiejun Zhao.  
