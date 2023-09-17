@@ -57,7 +57,7 @@ Knowledge-Based Systems (**KBS in peer review, JCR Q1**)
 Jing Zhao, Junwei Bao, Yifan Wang, **Yongwei Zhou**, Youzheng Wu, Xiaodong He, Bowen Zhou. **EMNLP (Findings) 2021**
   
 7. [[Paper](https://arxiv.org/pdf/2308.11257.pdf)] [Arxiv]**HopPG: Self-Iterative Program Generation for Multi-Hop Question Answering over Heterogeneous Knowledge**.  
-Yingyao Wang, **Yongwei Zhou**<sup>*</sup>, Chaoqun Duan, Junwei Bao, Tiejun Zhao. (**Arxiv**)
+Yingyao Wang<sup>*</sup>, **Yongwei Zhou**<sup>*</sup>, Chaoqun Duan, Junwei Bao, Tiejun Zhao. (**Arxiv**)
 
 ## Honors & Awards 
 - [2022] UniRPG achieves the Top-1 on the TAT-QA leaderboard. (JD AI Research)
