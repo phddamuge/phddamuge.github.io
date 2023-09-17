@@ -44,7 +44,7 @@ Email: ywzhou@hit-mtlab.net
 
 3. [[Paper]()] [JCR-Q1] **Operation-Augmented Discrete Reasoning for Question Answering**.  
 **Yongwei Zhou**, Junwei Bao, Youzheng Wu, Xiaodong He, Tiejun Zhao.  
-IEEE/ACM Transactions on Audio, Speech, and Language Processing(TASLP 2023) (**Accepted, JCR Q1， IF=4.364**)
+IEEE/ACM Transactions on Audio, Speech, and Language Processing(TASLP 2023) (**Accepted, JCR Q1， IF=5.4**)
 
 5. [[Paper](https://arxiv.org/abs/2108.07994)] [CCF-C] **EviDR: Evidence-Emphasized Discrete Reasoning for Reasoning Machine Reading Comprehension**.  
 **Yongwei Zhou**, Junwei Bao, Haipeng Sun, Jiahui Liang, Youzheng Wu, Xiaodong He, Bowen Zhou, Tiejun Zhao. **NLPCC 2021**
