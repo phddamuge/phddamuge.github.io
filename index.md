@@ -42,7 +42,7 @@ Email: ywzhou@hit-mtlab.net
 2. [[Paper](https://aclanthology.org/2022.naacl-main.119.pdf)] [CCF-B | 清华B] **OPERA: Operation-Pivoted Discrete Reasoning over Text**.  
 **Yongwei Zhou**, Junwei Bao, Chaoqun Duan, Haipeng Sun, Jiahui Liang, Yifan Wang, Jing Zhao, Youzheng Wu, Xiaodong He, Tiejun Zhao. **NAACL 2022**
 
-3. [[Paper]()] [JCR-Q1] **Operation-Augmented Numerical Reasoning for Question Answering**.  
+3. [[Paper]()] [JCR-Q1 | CCF B | 清华A] **Operation-Augmented Numerical Reasoning for Question Answering**.  
 **Yongwei Zhou**, Junwei Bao, Youzheng Wu, Xiaodong He, Tiejun Zhao.  
 IEEE/ACM Transactions on Audio, Speech, and Language Processing(TASLP 2023) (**JCR Q1， IF=5.4**)
 
