@@ -1,7 +1,7 @@
 <img align="left" src="xjpic.jpg" width=200 height=250 alt="a photo" style="padding-right:10px">
 **Yongwei Zhou (周勇伟)**  
 
-I am currently a Ph.D. candidate in Department of Computer Science of HIT, under the supervision of [Prof. Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun?lang=zh). 
+I obtain my Ph.D. degree from the Department of Computer Science of HIT, under the supervision of [Prof. Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun?lang=zh). 
 Before that, I have obtained my Master's and Bachelor's degrees in Department of Computer Science and Mathematics of HIT. My research focus on NLP, knowledge reasoning, QA and semantic parsing. 
 
 Email: ywzhou@hit-mtlab.net  
@@ -17,7 +17,7 @@ Email: ywzhou@hit-mtlab.net
 - 01/2021: Our [RoR](https://aclanthology.org/2021.findings-emnlp.160.pdf) (EMNLP 2021-Findings) achieves the Top-1 on [QuAC](https://quac.ai/) leaderboard.
 
 ## Education
-- [2018 - Present] Ph.D., Computer Science, Harbin Institute of Technology
+- [201809 - 202403] Ph.D., Computer Science, Harbin Institute of Technology
   - Research Interests: NLP, Knowledge Reasoning, QA
   - Advisor: [Prof. Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun?lang=zh)
   - Lab: [Machine Translation and Intelligence (MI&T)](https://mitlab.hit.edu.cn)
