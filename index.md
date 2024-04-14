@@ -4,7 +4,7 @@
 I obtain my Ph.D. degree from the Department of Computer Science of HIT, under the supervision of [Prof. Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun?lang=zh). 
 Before that, I have obtained my Master's and Bachelor's degrees in Department of Computer Science and Mathematics of HIT. My research focus on NLP, knowledge reasoning, QA and semantic parsing. 
 
-Email: ywzhou@hit-mtlab.net  
+Email: ywzhouphd2018@gmail.com  
 
 [[Google Scholar](https://scholar.google.com/citations?user=9uGWNycAAAAJ&hl=zh-CN)]  [[Semantic Scholar](https://www.semanticscholar.org/author/Yongwei-Zhou/2145494002)] [[Resume]()]
 
