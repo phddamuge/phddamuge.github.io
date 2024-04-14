@@ -56,8 +56,12 @@ Knowledge-Based Systems (**KBS in peer review, JCR Q1**)
 5. [[Paper](https://aclanthology.org/2021.findings-emnlp.160.pdf)] [[Code](https://github.com/JD-AI-Research-NLP/RoR)] [CCF-B | 清华A] **RoR: Read-over-Read for Long Document Machine Reading Comprehension**.  
 Jing Zhao, Junwei Bao, Yifan Wang, **Yongwei Zhou**, Youzheng Wu, Xiaodong He, Bowen Zhou. **EMNLP (Findings) 2021**
   
-7. [[Paper](https://arxiv.org/pdf/2308.11257.pdf)] [Arxiv]**HopPG: Self-Iterative Program Generation for Multi-Hop Question Answering over Heterogeneous Knowledge**.  
+7. [[Paper](https://arxiv.org/pdf/2308.11257.pdf)] [Arxiv] **HopPG: Self-Iterative Program Generation for Multi-Hop Question Answering over Heterogeneous Knowledge**.  
 Yingyao Wang<sup>*</sup>, **Yongwei Zhou**<sup>*</sup>, Chaoqun Duan, Junwei Bao, Tiejun Zhao. (**Arxiv**)
+
+8. [[Paper](https://arxiv.org/pdf/2308.11257.pdf)] [Arxiv] **Dual Instruction Tuning with Large Language Models for Mathematical Reasoning**.  
+Yongwei Zhou, Tiejun Zhao. (**Arxiv**)
+
 
 ## Honors & Awards 
 - [2022] UniRPG achieves the Top-1 on the TAT-QA leaderboard. (JD AI Research)
