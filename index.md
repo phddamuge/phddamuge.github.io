@@ -1,7 +1,7 @@
 <img align="left" src="xjpic.jpg" width=200 height=250 alt="a photo" style="padding-right:10px">
 **Yongwei Zhou (周勇伟)**  
 
-I obtain my Ph.D. degree from the Department of Computer Science of HIT, under the supervision of [Prof. Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun?lang=zh). 
+I obtained my Ph.D. degree from the Department of Computer Science of HIT in March 2024, under the supervision of [Prof. Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun?lang=zh). 
 Before that, I have obtained my Master's and Bachelor's degrees in Department of Computer Science and Mathematics of HIT. My research focus on NLP, knowledge reasoning, QA and semantic parsing. 
 
 Email: ywzhouphd2018@gmail.com  
@@ -26,7 +26,10 @@ Email: ywzhouphd2018@gmail.com
   - Advisor: Prof. Hong Gao
 - [2012 - 2016] B.S., Mathematics, Harbin Institute of Technology 
 
-## Research and Industry Experience
+## Industry and Research Experience
+- MeiTuan, Beijing, Apr 2024- Present
+  - Full-time employees
+  - PreTraining for LLMs
 - JD AI Research, Beijing, June 2020 - May 2023 
   - Research Intern, QA and Knowledge Reasoning
   - Advisor: [Dr.Junwei Bao](https://scholar.google.com/citations?user=hcRREnsAAAAJ&hl=zh-CN) and [Dr. Youzheng Wu](https://scholar.google.com/citations?user=fWrjVnQAAAAJ&hl=zh-CN)
@@ -44,7 +47,7 @@ Email: ywzhouphd2018@gmail.com
 
 3. [[Paper]()] [JCR-Q1 | CCF B | 清华A] **Operation-Augmented Numerical Reasoning for Question Answering**.  
 **Yongwei Zhou**, Junwei Bao, Youzheng Wu, Xiaodong He, Tiejun Zhao.  
-IEEE/ACM Transactions on Audio, Speech, and Language Processing(TASLP 2023) (**JCR Q1， IF=5.4**)
+IEEE/ACM Transactions on Audio, Speech, and Language Processing(**TASLP 2023**) (**JCR Q1， IF=5.4**)
 
 5. [[Paper](https://arxiv.org/abs/2108.07994)] [CCF-C] **EviDR: Evidence-Emphasized Discrete Reasoning for Reasoning Machine Reading Comprehension**.  
 **Yongwei Zhou**, Junwei Bao, Haipeng Sun, Jiahui Liang, Youzheng Wu, Xiaodong He, Bowen Zhou, Tiejun Zhao. **NLPCC 2021**
