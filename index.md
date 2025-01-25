@@ -18,15 +18,6 @@ Email: ywzhouphd2018@gmail.com
 - 02/2022: Our [OPERA++](https://aclanthology.org/2022.naacl-main.119.pdf) (NAACL 2022) achieves the Top-1 on [DROP](https://leaderboard.allenai.org/drop/submissions/public) leaderboard.
 - 01/2021: Our [RoR](https://aclanthology.org/2021.findings-emnlp.160.pdf) (EMNLP 2021-Findings) achieves the Top-1 on [QuAC](https://quac.ai/) leaderboard.
 
-## Education
-- [201809 - 202403] Ph.D., Computer Science, Harbin Institute of Technology
-  - Research Interests: NLP, Knowledge Reasoning, QA
-  - Advisor: [Prof. Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun?lang=zh)
-  - Lab: [Machine Translation and Intelligence (MI&T)](https://mitlab.hit.edu.cn)
-- [2016 - 2018] M.S., Computer Science, Harbin Institute of Technology 
-  - Research Interests: String Approximate Query
-  - Advisor: Prof. Hong Gao
-- [2012 - 2016] B.S., Mathematics, Harbin Institute of Technology 
 
 ## Industry and Research Experience
 - MeiTuan-FMG, Beijing, Apr 2024- Present
@@ -61,7 +52,17 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing(**TASLP 2024**) 
 
 - [[Paper](https://aclanthology.org/2021.findings-emnlp.160.pdf)] [[Code](https://github.com/JD-AI-Research-NLP/RoR)] [CCF-B | 清华A] **RoR: Read-over-Read for Long Document Machine Reading Comprehension**.  
 Jing Zhao, Junwei Bao, Yifan Wang, **Yongwei Zhou**, Youzheng Wu, Xiaodong He, Bowen Zhou. **EMNLP (Findings) 2021**
-  
+
+
+## Education
+- [201809 - 202403] Ph.D., Computer Science, Harbin Institute of Technology
+  - Research Interests: NLP, Knowledge Reasoning, QA
+  - Advisor: [Prof. Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun?lang=zh)
+  - Lab: [Machine Translation and Intelligence (MI&T)](https://mitlab.hit.edu.cn)
+- [2016 - 2018] M.S., Computer Science, Harbin Institute of Technology 
+  - Research Interests: String Approximate Query
+  - Advisor: Prof. Hong Gao
+- [2012 - 2016] B.S., Mathematics, Harbin Institute of Technology 
 
 ## Internship Experience
 - JD AI Research, Beijing, June 2020 - May 2023 
