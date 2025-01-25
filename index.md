@@ -8,7 +8,7 @@ Email: ywzhouphd2018@gmail.com
 
 [[Google Scholar](https://scholar.google.com/citations?user=9uGWNycAAAAJ&hl=zh-CN)]  [[Semantic Scholar](https://www.semanticscholar.org/author/Yongwei-Zhou/2145494002)] [[Resume]()]
 
-[Last Updated Sep 2023][Designed by Yongwei Zhou]
+[Last Updated Jan 2025][Designed by Yongwei Zhou]
 
 ## News
 - 01/2025: Release our Preference Curriculum paper for LLM pretraining
