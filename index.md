@@ -11,6 +11,8 @@ Email: ywzhouphd2018@gmail.com
 [Last Updated Sep 2023][Designed by Yongwei Zhou]
 
 ## News
+- 01/2025: Release our Preference Curriculum paper for LLM pretraining
+- 04/2024: Pleasure to join FMG in Meituan.com as FTE
 - 09/2023: One paper is accepted to IEEE/ACM Transactions on Audio, Speech, and Language Processing.
 - 02/2022: Our [UniRPG](https://arxiv.org/pdf/2210.08249.pdf) (EMNLP 2022) achieves the Top-1 on [TAT-QA](https://nextplusplus.github.io/TAT-QA/) leaderboard.
 - 02/2022: Our [OPERA++](https://aclanthology.org/2022.naacl-main.119.pdf) (NAACL 2022) achieves the Top-1 on [DROP](https://leaderboard.allenai.org/drop/submissions/public) leaderboard.
@@ -34,29 +36,30 @@ Email: ywzhouphd2018@gmail.com
 
 ## Publications
 <!-- #### For full publication list, please check [publication page](publications.md). -->
-1.[[Paper](https://arxiv.org/pdf/2501.13126)] [Arxiv] **Preference Curriculum: LLMs Should Always Be Pretrained on Their Preferred Data**. 
-Xuemiao Zhang<sup>*</sup>, Liangyu Xu<sup>*</sup>, Feiyu Duan<sup>*</sup>, **Yongwei Zhou**<sup>*</sup>, Sirui Wang, Jingang Wang, Xunliang Cai
+- [[Paper](https://arxiv.org/pdf/2501.13126)] [Arxiv] **Preference Curriculum: LLMs Should Always Be Pretrained on Their Preferred Data**.  
+**Yongwei Zhou**<sup>*</sup>, Xuemiao Zhang<sup>*</sup>, Liangyu Xu<sup>*</sup>, Feiyu Duan<sup>*</sup>,  Sirui Wang, Jingang Wang, Xunliang Cai. (arXiv:2501.13126)
 
-1.[[Paper](https://arxiv.org/pdf/2308.11257.pdf)] [Arxiv] **HopPG: Self-Iterative Program Generation for Multi-Hop Question Answering over Heterogeneous Knowledge**.  
-Yingyao Wang<sup>*</sup>, **Yongwei Zhou**<sup>*</sup>, Chaoqun Duan, Junwei Bao, Tiejun Zhao. (**Arxiv**)
+- [[Paper](https://arxiv.org/pdf/2308.11257.pdf)] [Arxiv] **Dual Instruction Tuning with Large Language Models for Mathematical Reasoning**.  
+**Yongwei Zhou**, Tiejun Zhao. (arXiv:2403.18295)
 
-1.[[Paper](https://arxiv.org/pdf/2308.11257.pdf)] [Arxiv] **Dual Instruction Tuning with Large Language Models for Mathematical Reasoning**.  
-Yongwei Zhou, Tiejun Zhao. (**Arxiv**)
+- [[Paper](https://arxiv.org/pdf/2308.11257.pdf)] [Arxiv] **HopPG: Self-Iterative Program Generation for Multi-Hop Question Answering over Heterogeneous Knowledge**.  
+Yingyao Wang<sup>*</sup>, **Yongwei Zhou**<sup>*</sup>, Chaoqun Duan, Junwei Bao, Tiejun Zhao. (arXiv:2308.11257)
 
-1.[[Paper](https://arxiv.org/pdf/2210.08249.pdf)] [[Code](https://github.com/JD-AI-Research-NLP/UniRPG)] [CCF-B | 清华A] **UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation**.  
+- [[Paper](https://ieeexplore.ieee.org/document/10254290)] [JCR-Q1 | CCF B | 清华A] **Operation-Augmented Numerical Reasoning for Question Answering**.  
+**Yongwei Zhou**, Junwei Bao, Youzheng Wu, Xiaodong He, Tiejun Zhao.  
+IEEE/ACM Transactions on Audio, Speech, and Language Processing(**TASLP 2024**) (**JCR Q1， IF=5.4**)
+
+- [[Paper](https://arxiv.org/pdf/2210.08249.pdf)] [[Code](https://github.com/JD-AI-Research-NLP/UniRPG)] [CCF-B | 清华A] **UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation**.  
 **Yongwei Zhou**, Junwei Bao, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao. **EMNLP 2022**
   
-1.[[Paper](https://aclanthology.org/2022.naacl-main.119.pdf)] [CCF-B | 清华B] **OPERA: Operation-Pivoted Discrete Reasoning over Text**.  
+- [[Paper](https://aclanthology.org/2022.naacl-main.119.pdf)] [CCF-B | 清华B] **OPERA: Operation-Pivoted Discrete Reasoning over Text**.  
 **Yongwei Zhou**, Junwei Bao, Chaoqun Duan, Haipeng Sun, Jiahui Liang, Yifan Wang, Jing Zhao, Youzheng Wu, Xiaodong He, Tiejun Zhao. **NAACL 2022**
 
-1.[[Paper]()] [JCR-Q1 | CCF B | 清华A] **Operation-Augmented Numerical Reasoning for Question Answering**.  
-**Yongwei Zhou**, Junwei Bao, Youzheng Wu, Xiaodong He, Tiejun Zhao.  
-IEEE/ACM Transactions on Audio, Speech, and Language Processing(**TASLP 2023**) (**JCR Q1， IF=5.4**)
 
-1.[[Paper](https://arxiv.org/abs/2108.07994)] [CCF-C] **EviDR: Evidence-Emphasized Discrete Reasoning for Reasoning Machine Reading Comprehension**.  
+- [[Paper](https://arxiv.org/abs/2108.07994)] [CCF-C] **EviDR: Evidence-Emphasized Discrete Reasoning for Reasoning Machine Reading Comprehension**.  
 **Yongwei Zhou**, Junwei Bao, Haipeng Sun, Jiahui Liang, Youzheng Wu, Xiaodong He, Bowen Zhou, Tiejun Zhao. **NLPCC 2021**
 
-1.[[Paper](https://aclanthology.org/2021.findings-emnlp.160.pdf)] [[Code](https://github.com/JD-AI-Research-NLP/RoR)] [CCF-B | 清华A] **RoR: Read-over-Read for Long Document Machine Reading Comprehension**.  
+- [[Paper](https://aclanthology.org/2021.findings-emnlp.160.pdf)] [[Code](https://github.com/JD-AI-Research-NLP/RoR)] [CCF-B | 清华A] **RoR: Read-over-Read for Long Document Machine Reading Comprehension**.  
 Jing Zhao, Junwei Bao, Yifan Wang, **Yongwei Zhou**, Youzheng Wu, Xiaodong He, Bowen Zhou. **EMNLP (Findings) 2021**
   
 
