@@ -2,7 +2,7 @@
 **Yongwei Zhou (周勇伟)**  
 
 I obtained my Ph.D. degree from the Department of Computer Science of HIT in March 2024, under the supervision of [Prof. Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun?lang=zh). 
-Before that, I have obtained my Master's and Bachelor's degrees in Department of Computer Science and Mathematics of HIT. My research focus on NLP, knowledge reasoning, QA and semantic parsing. 
+Before that, I have obtained my Master's and Bachelor's degrees in Department of Computer Science and Mathematics of HIT. My research focus on NLP, Pretraining for LLMs， Knowledge Reasoning, QA and Semantic Parsing. 
 
 Email: ywzhouphd2018@gmail.com  
 
