@@ -1,4 +1,4 @@
-<img align="left" src="xjpic.jpg" width=200 height=250 alt="a photo" style="padding-right:10px">
+<img align="left" src="ywzhou.jpg" width=200 height=250 alt="a photo" style="padding-right:10px">
 **Yongwei Zhou (周勇伟)**  
 
 I obtained my Ph.D. degree from the Department of Computer Science of HIT in March 2024, under the supervision of [Prof. Tiejun Zhao](http://homepage.hit.edu.cn/zhaotiejun?lang=zh). 
