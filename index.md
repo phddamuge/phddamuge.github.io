@@ -30,6 +30,9 @@ Email: ywzhouphd2018@gmail.com
 - [[Paper](https://arxiv.org/pdf/2501.13126)] [Arxiv] **Preference Curriculum: LLMs Should Always Be Pretrained on Their Preferred Data**.  
 **Yongwei Zhou**<sup>*</sup>, Xuemiao Zhang<sup>*</sup>, Liangyu Xu<sup>*</sup>, Feiyu Duan<sup>*</sup>,  Sirui Wang, Jingang Wang, Xunliang Cai. (arXiv:2501.13126)
 
+- [[Paper]]**Cross-Lingual Semantic Information Fusion for Word Translation Enhancement**.
+  Qiuyu Ding, Hailong Cao, Zhiqiang Cao, **Yongwei Zhou**, Tiejun Zhao
+
 - [[Paper](https://arxiv.org/pdf/2308.11257.pdf)] [Arxiv] **Dual Instruction Tuning with Large Language Models for Mathematical Reasoning**.  
 **Yongwei Zhou**, Tiejun Zhao. (arXiv:2403.18295)
 
