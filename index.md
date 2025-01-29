@@ -22,7 +22,7 @@ Email: ywzhouphd2018@gmail.com
 ## Industry and Research Experience
 - MeiTuan-FMG, Beijing, Apr 2024- Present
   - Full-time employees
-  - Pre-Training/Mid-Training for LLMs， Data Strategy
+  - Pre-Training for LLMs， Data Strategy
 
 
 ## Publications
