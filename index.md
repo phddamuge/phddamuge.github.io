@@ -11,7 +11,7 @@ Email: ywzhouphd2018@gmail.com
 [Last Updated Jan 2025][Designed by Yongwei Zhou]
 
 ## News
-- 01/2025: Release our Preference Curriculum paper for LLM pretraining
+- 01/2025: Our Preference Curriculum paper for LLM pretraining is now publicly available
 - 04/2024: Pleasure to join FMG in Meituan.com as FTE
 - 09/2023: One paper is accepted to IEEE/ACM Transactions on Audio, Speech, and Language Processing.
 - 02/2022: Our [UniRPG](https://arxiv.org/pdf/2210.08249.pdf) (EMNLP 2022) achieves the Top-1 on [TAT-QA](https://nextplusplus.github.io/TAT-QA/) leaderboard.
