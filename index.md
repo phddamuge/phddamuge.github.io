@@ -30,8 +30,8 @@ Email: ywzhouphd2018@gmail.com
 - [[Paper](https://arxiv.org/pdf/2501.13126)] [Arxiv] **Preference Curriculum: LLMs Should Always Be Pretrained on Their Preferred Data**.  
 **Yongwei Zhou**<sup>*</sup>, Xuemiao Zhang<sup>*</sup>, Liangyu Xu<sup>*</sup>, Feiyu Duan<sup>*</sup>,  Sirui Wang, Jingang Wang, Xunliang Cai. (arXiv:2501.13126)
 
-- [Paper]**Cross-Lingual Semantic Information Fusion for Word Translation Enhancement**.  
-  Qiuyu Ding, Hailong Cao, Zhiqiang Cao, **Yongwei Zhou**, Tiejun Zhao. **Information Fusion**
+- [Paper][中科院1区]**Cross-Lingual Semantic Information Fusion for Word Translation Enhancement**.  
+  Qiuyu Ding, Hailong Cao, Zhiqiang Cao, **Yongwei Zhou**, Tiejun Zhao. **Information Fusion 2025**
 
 - [[Paper](https://arxiv.org/pdf/2308.11257.pdf)] [Arxiv] **Dual Instruction Tuning with Large Language Models for Mathematical Reasoning**.  
 **Yongwei Zhou**, Tiejun Zhao. (arXiv:2403.18295)
@@ -39,7 +39,7 @@ Email: ywzhouphd2018@gmail.com
 - [[Paper](https://arxiv.org/pdf/2308.11257.pdf)] [Arxiv] **HopPG: Self-Iterative Program Generation for Multi-Hop Question Answering over Heterogeneous Knowledge**.  
 Yingyao Wang<sup>*</sup>, **Yongwei Zhou**<sup>*</sup>, Chaoqun Duan, Junwei Bao, Tiejun Zhao. (arXiv:2308.11257)
 
-- [[Paper](https://ieeexplore.ieee.org/document/10254290)] [JCR-Q1 | CCF B | 清华A] **Operation-Augmented Numerical Reasoning for Question Answering**.  
+- [[Paper](https://ieeexplore.ieee.org/document/10254290)] [中科院1区| CCF B | 清华A] **Operation-Augmented Numerical Reasoning for Question Answering**.  
 **Yongwei Zhou**, Junwei Bao, Youzheng Wu, Xiaodong He, Tiejun Zhao.  
 IEEE/ACM Transactions on Audio, Speech, and Language Processing(**TASLP 2024**) (**JCR Q1， IF=5.4**)
 
