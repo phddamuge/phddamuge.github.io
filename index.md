@@ -49,7 +49,6 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing(**TASLP 2024**) 
 - [[Paper](https://aclanthology.org/2022.naacl-main.119.pdf)] [CCF-B | 清华B] **OPERA: Operation-Pivoted Discrete Reasoning over Text**.  
 **Yongwei Zhou**, Junwei Bao, Chaoqun Duan, Haipeng Sun, Jiahui Liang, Yifan Wang, Jing Zhao, Youzheng Wu, Xiaodong He, Tiejun Zhao. **NAACL 2022**
 
-
 - [[Paper](https://arxiv.org/abs/2108.07994)] [CCF-C] **EviDR: Evidence-Emphasized Discrete Reasoning for Reasoning Machine Reading Comprehension**.  
 **Yongwei Zhou**, Junwei Bao, Haipeng Sun, Jiahui Liang, Youzheng Wu, Xiaodong He, Bowen Zhou, Tiejun Zhao. **NLPCC 2021**
 
