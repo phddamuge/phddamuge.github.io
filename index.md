@@ -11,6 +11,7 @@ Email: ywzhouphd2018@gmail.com
 [Last Updated Jan 2025][Designed by Yongwei Zhou]
 
 ## News
+- 02/2025:  Our Four-Quadrant Multi-Stage Pretraining paper is now publicly available
 - 01/2025: Our Preference Curriculum paper for LLM pretraining is now publicly available
 - 04/2024: Pleasure to join FMG in Meituan.com as FTE
 - 09/2023: One paper is accepted to IEEE/ACM Transactions on Audio, Speech, and Language Processing.
@@ -27,6 +28,9 @@ Email: ywzhouphd2018@gmail.com
 
 ## Publications
 <!-- #### For full publication list, please check [publication page](publications.md). -->
+- [[Paper](https://arxiv.org/abs/2502.05551)][Arxiv]**FRAMES: Boosting LLMs with A Four-Quadrant Multi-Stage Pretraining Strategy**  
+   Xuemiao Zhang<sup>*</sup>, Liangyu Xu<sup>*</sup>, Feiyu Duan<sup>*</sup>,  **Yongwei Zhou**, Sirui Wang, Jingang Wang, Xunliang Cai. (arXiv:2501.13126)
+
 - [[Paper](https://arxiv.org/pdf/2501.13126)] [Arxiv] **Preference Curriculum: LLMs Should Always Be Pretrained on Their Preferred Data**.  
 **Yongwei Zhou**<sup>*</sup>, Xuemiao Zhang<sup>*</sup>, Liangyu Xu<sup>*</sup>, Feiyu Duan<sup>*</sup>,  Sirui Wang, Jingang Wang, Xunliang Cai. (arXiv:2501.13126)
 
