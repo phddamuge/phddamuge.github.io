@@ -11,6 +11,7 @@ Email: ywzhouphd2018@gmail.com
 [Last Updated Jan 2025][Designed by Yongwei Zhou]
 
 ## News
+- 05/2025; Two papers has been accepted into ACL findings 2025
 - 02/2025:  Our Four-Quadrant Multi-Stage Pretraining paper is now publicly available
 - 01/2025: Our Preference Curriculum paper for LLM pretraining is now publicly available
 - 04/2024: Pleasure to join FMG in Meituan.com as FTE
@@ -29,10 +30,10 @@ Email: ywzhouphd2018@gmail.com
 ## Publications
 <!-- #### For full publication list, please check [publication page](publications.md). -->
 - [[Paper](https://arxiv.org/abs/2502.05551)][Arxiv]**FRAMES: Boosting LLMs with A Four-Quadrant Multi-Stage Pretraining Strategy**  
-   Xuemiao Zhang<sup>*</sup>, Liangyu Xu<sup>*</sup>, Feiyu Duan<sup>*</sup>,  **Yongwei Zhou**, Sirui Wang, Jingang Wang, Xunliang Cai. (arXiv:2501.13126)
+   Xuemiao Zhang<sup>*</sup>, Liangyu Xu<sup>*</sup>, Feiyu Duan<sup>*</sup>,  **Yongwei Zhou**, Sirui Wang, Jingang Wang, Xunliang Cai. **ACL 2025 findings**
 
 - [[Paper](https://arxiv.org/pdf/2501.13126)] [Arxiv] **Preference Curriculum: LLMs Should Always Be Pretrained on Their Preferred Data**.  
-**Yongwei Zhou**<sup>*</sup>, Xuemiao Zhang<sup>*</sup>, Liangyu Xu<sup>*</sup>, Feiyu Duan<sup>*</sup>,  Sirui Wang, Jingang Wang, Xunliang Cai. (arXiv:2501.13126)
+**Yongwei Zhou**<sup>*</sup>, Xuemiao Zhang<sup>*</sup>, Liangyu Xu<sup>*</sup>, Feiyu Duan<sup>*</sup>,  Sirui Wang, Jingang Wang, Xunliang Cai. **ACL 2025 findings**
 
 - [Paper][中科院1区]**Cross-Lingual Semantic Information Fusion for Word Translation Enhancement**.  
   Qiuyu Ding, Hailong Cao, Zhiqiang Cao, **Yongwei Zhou**, Tiejun Zhao. **Information Fusion 2025**
