@@ -37,7 +37,7 @@ Email: ywzhouphd2018@gmail.com
 **Yongwei Zhou**<sup>*</sup>, Xuemiao Zhang<sup>*</sup>, Liangyu Xu<sup>*</sup>, Feiyu Duan<sup>*</sup>,  Sirui Wang, Jingang Wang, Xunliang Cai. **ACL 2025 findings**
 
 - [Paper][中科院1区]**Cross-Lingual Semantic Information Fusion for Word Translation Enhancement**.  
-  Qiuyu Ding, Hailong Cao, Zhiqiang Cao, **Yongwei Zhou**, Tiejun Zhao. **Information Fusion 2025**
+  Qiuyu Ding, Hailong Cao, Zhiqiang Cao, **Yongwei Zhou**, Tiejun Zhao. (**Information Fusion 2025**)  (**JCR Q1**) 
 
 - [[Paper](https://arxiv.org/pdf/2308.11257.pdf)] [Arxiv] **Dual Instruction Tuning with Large Language Models for Mathematical Reasoning**.  
 **Yongwei Zhou**, Tiejun Zhao. (arXiv:2403.18295)
