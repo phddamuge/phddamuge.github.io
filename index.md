@@ -11,7 +11,8 @@ Email: ywzhouphd2018@gmail.com
 [Last Updated Jan 2025][Designed by Yongwei Zhou]
 
 ## News
-- 05/2025; Two papers has been accepted into ACL findings 2025
+- 07/2025: A paper on BLI has been accepted by the journal Information Fusion 2025.
+- 05/2025; Two papers on pretraining has been accepted by ACL findings 2025
 - 02/2025:  Our Four-Quadrant Multi-Stage Pretraining paper is now publicly available
 - 01/2025: Our Preference Curriculum paper for LLM pretraining is now publicly available
 - 04/2024: Pleasure to join FMG in Meituan.com as FTE
