@@ -15,7 +15,7 @@ Email: ywzhouphd2018@gmail.com
 - 05/2025; Two papers on pretraining has been accepted by ACL findings 2025
 - 02/2025:  Our Four-Quadrant Multi-Stage Pretraining paper is now publicly available
 - 01/2025: Our Preference Curriculum paper for LLM pretraining is now publicly available
-- 04/2024: Pleasure to join M17 in Meituan.com as FTE
+- 04/2024: Pleasure to join Meituan.com as FTE
 - 09/2023: One paper is accepted to IEEE/ACM Transactions on Audio, Speech, and Language Processing.
 - 02/2022: Our [UniRPG](https://arxiv.org/pdf/2210.08249.pdf) (EMNLP 2022) achieves the Top-1 on [TAT-QA](https://nextplusplus.github.io/TAT-QA/) leaderboard.
 - 02/2022: Our [OPERA++](https://aclanthology.org/2022.naacl-main.119.pdf) (NAACL 2022) achieves the Top-1 on [DROP](https://leaderboard.allenai.org/drop/submissions/public) leaderboard.
@@ -23,7 +23,7 @@ Email: ywzhouphd2018@gmail.com
 
 
 ## Industry and Research Experience
-- MeiTuan- M17, Beijing, Apr 2024- Present
+- MeiTuan, Beijing, Apr 2024- Present
   - Full-time employees
   - Pre-Training for LLMs， Data Strategy
 
