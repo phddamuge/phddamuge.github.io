@@ -36,7 +36,7 @@ Email: ywzhouphd2018@gmail.com
 - [[Paper](https://arxiv.org/pdf/2501.13126)] [ACL] **Preference Curriculum: LLMs Should Always Be Pretrained on Their Preferred Data**.  
 **Yongwei Zhou**<sup>*</sup>, Xuemiao Zhang<sup>*</sup>, Liangyu Xu<sup>*</sup>, Feiyu Duan<sup>*</sup>,  Sirui Wang, Jingang Wang, Xunliang Cai. **ACL 2025 findings**
 
-- [Paper][中科院1区]**Cross-Lingual Semantic Information Fusion for Word Translation Enhancement**.  
+- [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253525005652)][中科院1区]**Cross-Lingual Semantic Information Fusion for Word Translation Enhancement**.  
   Qiuyu Ding, Hailong Cao, Zhiqiang Cao, **Yongwei Zhou**, Tiejun Zhao. (**Information Fusion 2025**)  (**JCR Q1**) 
 
 - [[Paper](https://arxiv.org/pdf/2308.11257.pdf)] [Arxiv] **Dual Instruction Tuning with Large Language Models for Mathematical Reasoning**.  
