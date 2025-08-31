@@ -11,7 +11,7 @@ Email: ywzhouphd2018@gmail.com
 [Last Updated Jan 2025][Designed by Yongwei Zhou]
 
 ## News
-- 08/2025: Our Team releases the LongCat-Flash-Chat Model with 560B-A26B paramerters.
+- 08/2025: Our Team releases the LongCat-Flash-Chat Model with 560B-A26B parameters.
 - 07/2025: A paper on BLI has been accepted by the journal Information Fusion 2025.
 - 05/2025; Two papers on pretraining has been accepted by ACL findings 2025
 - 02/2025:  Our Four-Quadrant Multi-Stage Pretraining paper is now publicly available
