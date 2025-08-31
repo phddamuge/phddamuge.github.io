@@ -11,6 +11,7 @@ Email: ywzhouphd2018@gmail.com
 [Last Updated Jan 2025][Designed by Yongwei Zhou]
 
 ## News
+- 08/2025: Our Team releases the LongCat-Flash-Chat Model with 560B-A26B paramerters.
 - 07/2025: A paper on BLI has been accepted by the journal Information Fusion 2025.
 - 05/2025; Two papers on pretraining has been accepted by ACL findings 2025
 - 02/2025:  Our Four-Quadrant Multi-Stage Pretraining paper is now publicly available
@@ -30,6 +31,9 @@ Email: ywzhouphd2018@gmail.com
 
 ## Publications
 <!-- #### For full publication list, please check [publication page](publications.md). -->
+- [[Paper](https://github.com/meituan-longcat/LongCat-Flash-Chat/blob/main/tech_report.pdf)][[Project](https://github.com/meituan-longcat/LongCat-Flash-Chat)][[Model](https://huggingface.co/meituan-longcat/LongCat-Flash-Chat)] **LongCat-Flash Technical Report**  
+  Meituan LongCat Team, **Yongwei Zhou**, 2025
+
 - [[Paper](https://arxiv.org/abs/2502.05551)][ACL]**FRAMES: Boosting LLMs with A Four-Quadrant Multi-Stage Pretraining Strategy**  
    Xuemiao Zhang<sup>*</sup>, Liangyu Xu<sup>*</sup>, Feiyu Duan<sup>*</sup>,  **Yongwei Zhou**, Sirui Wang, Jingang Wang, Xunliang Cai. **ACL 2025 findings**
 
